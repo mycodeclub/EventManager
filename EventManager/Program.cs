@@ -1,6 +1,8 @@
+ 
 using EventManager;
 
 var builder = WebApplication.CreateBuilder(args);
+var config = builder.Configuration;
 
 // Add services to the container.
 builder.Services.AddRazorComponents()
