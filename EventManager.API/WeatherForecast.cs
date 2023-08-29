@@ -1,4 +1,4 @@
-namespace EventPlanner.API
+namespace EventManager.API
 {
     public class WeatherForecast
     {

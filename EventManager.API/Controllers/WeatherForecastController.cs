@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace EventPlanner.API.Controllers
+namespace EventManager.API.Controllers
 {
     [ApiController]
     [Route("[controller]")]

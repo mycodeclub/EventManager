@@ -4,3 +4,5 @@
 /EventManager/obj/
 /.vs/
 /.vs/EventManager/DesignTimeBuild/.dtbcache.v2
+/EventManager.Dto/bin/
+/EventManager.Dto/obj/
