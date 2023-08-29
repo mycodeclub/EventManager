@@ -1,8 +1,9 @@
+/.vs/
 /EventManager.API/bin/
 /EventManager.API/obj/
+
 /EventManager/bin/
 /EventManager/obj/
-/.vs/
-/.vs/EventManager/DesignTimeBuild/.dtbcache.v2
+
 /EventManager.Dto/bin/
 /EventManager.Dto/obj/
